@@ -26,7 +26,7 @@ require (
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0
 	golang.org/x/crypto v0.0.0-20220210151621-f4118a5b28e2 // indirect
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
-	golang.org/x/sys v0.0.0-20220209214540-3681064d5158
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.7
 	gopkg.in/ini.v1 v1.66.4
 	howett.net/plist v1.0.0 // indirect
